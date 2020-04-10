@@ -8,7 +8,7 @@ This is intended as a community led repository of needs in Scotland at this time
 
 In this unprecedented time much about life and work does not fit the normal rules. There are are lots of regional and localised organisations with needs who are probably trying to solve the same problems.  Meanwhile lots of highly qualified people are stuck at home unable to work.
 
-The aim of this site is to leverage the knowledge of volunteers to match knowledge, skill, resources and ideas with needs - helping to coordinate supply and demand.
+**The aim of this site is to leverage the knowledge of volunteers to match knowledge, skill, resources and ideas with needs - helping to link up supply and demand.**
 
 ## How does it work?
 
