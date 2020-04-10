@@ -18,9 +18,9 @@ The first priority is to try to gather together needs that are already out there
 
 ## How do I add a need?
 
-To add a need, click on the [issues](../issues) tab at the top of this screen:
+To add a need, click on the [issues](../../issues) tab at the top of this screen:
 
-![needs-tab](/home/sroebuck/Documents/dev/essential-needs/images/needs-tab.png)
+![needs-tab](images/needs-tab.png)
 
 Then click on the Add button and describe the need.
 
