@@ -14,7 +14,15 @@ Please note that the way this works will inevitably adapt over time, please unde
 
 ## How can I help?
 
-The first priority is to try to gather together needs that are already out there but may not be widely known.  If you know of needs directly or have time to search social media for requests for help then please add them to this repository.
+### 1. Respond to needs
+
+The needs can be found in the [`needs` directory](needs) and are linked to [issues](../../issues) where suggestions can be made.
+
+Do you have information, knowledge, contacts or access to resources that could help?
+
+### 2. Find, record and update needs
+
+Try to gather together needs that are already out there but may not be widely known.  If you know of needs directly or have time to search social media for requests for help then please add them to this repository.
 
 ## How do I add a need?
 
