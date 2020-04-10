@@ -7,3 +7,4 @@ Here are the current needs:
 | Need                                   | Issue link                   |
 | -------------------------------------- | ---------------------------- |
 | [NHS Uniforms](need-1-nhs-uniforms.md) | [Issue 2](../../../issues/2) |
+| [Volunteers](need-2-volunteers.md)     | [Issue 3](../../../issues/3) |

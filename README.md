@@ -2,7 +2,9 @@
 
 ## What is this?
 
-This is a repository is intended as a central repository of needs in Scotland at this time of the Covid-19 pandemic.
+This is intended as a community led repository of needs in Scotland at this time of the Covid-19 pandemic.
+
+*This resource is not official or endorsed by any public body.  Whilst every attempt will be made to ensure that the information is accurate please evaluate the information as you would any information from a community of volunteers.*
 
 In this unprecedented time much about life and work does not fit the normal rules, there are are lots of individuals and organisations with needs and lots of people who are stuck at home unable to work.  The aim of this site is to act as a central point where people with knowledge, skill, resources and good ideas can come together to find and respond to needs.
 
